@@ -1,0 +1,9 @@
+body {
+  font-family: arial;
+}
+
+img {
+  width: 50px;
+  border-radius: 50%;
+  margin: 1rem;
+}
